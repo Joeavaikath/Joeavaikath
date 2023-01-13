@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I like computers. I like video games, and am fascinated by the computers that run said video games.
+I like algorithms, graphs and the mathematical intuitions behind them.
+I am currently studying more about Neural Networks and Deep Learning. I am taking a course from NCSU, and an online Coursera course from DeepLearning.ai
+I like sunny days and slightly chilly weather.
+
+I think myself into knots, so I'll stop now.
+
 <!--
 **Joeavaikath/Joeavaikath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
